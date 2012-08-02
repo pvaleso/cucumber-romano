@@ -20,8 +20,8 @@ Feature: Numeros Romanos
 	| 8       | VIII    |
 	| 9       | IX      |
 	| 10      | X       |
-	| 11      | XI      |
-	| 12      | XII     |
+	| 11      | XI      |	
+	| 12      | XII     |		
 	| 13      | XIII    |
 	| 14      | XIV     |
 	| 15      | XV      |
@@ -29,5 +29,4 @@ Feature: Numeros Romanos
 	| 17      | XVII    |
 	| 18      | XVIII   |
 	| 19      | XIX     |
-	| 20      | XX      |
-									
+	
