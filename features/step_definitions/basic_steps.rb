@@ -39,7 +39,7 @@ class Conversor
 			when 8 then "VIII"
 			when 9 then "IX"
 			when 10 then "X"
-			#else decena_romano(numero)
+			else return "X" #decena_romano(numero)
 		end
 	end
 
